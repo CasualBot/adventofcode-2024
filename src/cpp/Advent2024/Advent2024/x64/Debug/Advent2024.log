@@ -1,6 +1,0 @@
-﻿  day1.cpp
-F:\workspace\adventofcode-2024\src\cpp\Advent2024\day1.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-F:\workspace\adventofcode-2024\src\cpp\Advent2024\day1.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  (compiling source file 'day1.cpp')
-  
-  Advent2024.vcxproj -> F:\workspace\adventofcode-2024\src\cpp\Advent2024\x64\Debug\Advent2024.exe
