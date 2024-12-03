@@ -1,2 +1,7 @@
 #pragma once
-#include <iostream>;
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <sstream>
+#include <algorithm>
